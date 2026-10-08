@@ -6,15 +6,15 @@
 
 ## Download
 
-**Latest version: v1.1** (Oct 8, 2026)
+**Latest version: v1.2** (Oct 8, 2026)
 
-- [FontRunner_v1.1_no-install.zip](https://github.com/codenomics/FontRunner/releases/download/v1.1/FontRunner_v1.1_no-install.zip) - 98 KB
-- [FontRunner_v1.1_Setup.exe](https://github.com/codenomics/FontRunner/releases/download/v1.1/FontRunner_v1.1_Setup.exe) - 167 KB
-- [FontRunner_v1.1_source.zip](https://github.com/codenomics/FontRunner/releases/download/v1.1/FontRunner_v1.1_source.zip) - 84 KB
+- [FontRunner_v1.2_no-install.zip](https://github.com/codenomics/FontRunner/releases/download/v1.2/FontRunner_v1.2_no-install.zip) - 98 KB
+- [FontRunner_v1.2_Setup.exe](https://github.com/codenomics/FontRunner/releases/download/v1.2/FontRunner_v1.2_Setup.exe) - 167 KB
+- [FontRunner_v1.2_source.zip](https://github.com/codenomics/FontRunner/releases/download/v1.2/FontRunner_v1.2_source.zip) - 84 KB
 
-What's new in v1.1:
+What's new in v1.2:
 
-- No app changes. Uploading Code**
+- updater versioning fix**
 
 Older versions are on the [Releases page](https://github.com/codenomics/FontRunner/releases).
 
