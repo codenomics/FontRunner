@@ -6,26 +6,15 @@
 
 ## Download
 
-**Latest version: v1.0** (Oct 8, 2026)
+**Latest version: v1.1** (Oct 8, 2026)
 
-- [FontRunner_v1.0_no-install.zip](https://github.com/codenomics/FontRunner/releases/download/v1.0/FontRunner_v1.0_no-install.zip) - 98 KB
-- [FontRunner_v1.0_Setup.exe](https://github.com/codenomics/FontRunner/releases/download/v1.0/FontRunner_v1.0_Setup.exe) - 167 KB
+- [FontRunner_v1.1_no-install.zip](https://github.com/codenomics/FontRunner/releases/download/v1.1/FontRunner_v1.1_no-install.zip) - 98 KB
+- [FontRunner_v1.1_Setup.exe](https://github.com/codenomics/FontRunner/releases/download/v1.1/FontRunner_v1.1_Setup.exe) - 167 KB
+- [FontRunner_v1.1_source.zip](https://github.com/codenomics/FontRunner/releases/download/v1.1/FontRunner_v1.1_source.zip) - 84 KB
 
-What's new in v1.0:
+What's new in v1.1:
 
-- First release
-- See every font installed on your PC, each one previewed in its own font
-- Show only the fonts you installed, only the Windows ones, or all of them
-- Add fonts by picking or dropping font files, folders or zips
-- Remove fonts you don't want; a backup copy of each one is kept
-- Export your fonts to a zip and add them back later on any PC
-- Restore fonts you removed, straight from the backups
-- Find duplicate fonts and remove the extra copies
-- Sort by name, newest added, size or number of styles
-- Clean up broken entries (fonts listed in Windows whose file is gone)
-- Groups: name sets of fonts, view them on their own and export them as a zip
-- Double-click a font for a big preview of every style and the alphabet
-- New app icon
+- No app changes. Uploading Code**
 
 Older versions are on the [Releases page](https://github.com/codenomics/FontRunner/releases).
 
@@ -44,6 +33,10 @@ Older versions are on the [Releases page](https://github.com/codenomics/FontRunn
 3. Open the folder and double-click the app's .exe. Nothing is installed; delete the folder to remove it.
 
 Windows says "Windows protected your PC"? Click More info > Run anyway. It shows that for apps without a paid signing certificate.
+
+## Source code
+
+Want to see how it works, or build it yourself? Download the file ending in `_source.zip` above, extract it and double-click `Build.bat`. It only uses the C# compiler that already comes with Windows, so there is nothing to install.
 
 ## More details
 
